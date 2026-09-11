@@ -31,7 +31,7 @@
 <a href="mailto:sowmyajahnavi578@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://drive.google.com/file/d/1jACMuPl10gP67J_QsvdPyNDYxm9cU7OB/view?usp=drivesdk" target="_blank">
+<a href="https://drive.google.com/file/d/1KHsgCUvigACQqSmceDJS8tZErxANvgcC/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-2C3E50?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/>
 </a>
 <a href="https://github.com/Sowmya-javvadhi" target="_blank">
@@ -74,7 +74,7 @@ I'm a passionate **AI/ML enthusiast** exploring the intersection of data and int
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -115,6 +115,12 @@ Built a real-time registration tracking dashboard using Base44 to monitor partic
 ### 🪪 [VisionID](https://github.com/Sowmya-javvadhi/VisionID)
 OCR-based document intelligence application that extracts Aadhaar details from card images using Computer Vision, OCR, and intelligent parsing. Includes image quality validation, rotation correction, OCR-based text extraction, field extraction, JSON output generation, and OCR confidence analysis via a Streamlit UI.
 **Tech Stack:** `Python` `Streamlit` `OpenCV` `EasyOCR` `Pillow` `NumPy`
+
+---
+
+### 🚂 [Automated Railway Interlocking & Collision Avoidance Engine](#)
+Built a multithreaded Railway Interlocking Simulator managing concurrent train movements with zero deadlock using mutual exclusion locks and event queues.
+**Tech Stack:** `Python` `Multithreading` `Concurrency`
 
 ---
 
