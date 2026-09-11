@@ -118,7 +118,7 @@ OCR-based document intelligence application that extracts Aadhaar details from c
 
 ---
 
-### 🚂 [Automated Railway Interlocking & Collision Avoidance Engine](#)
+### 🚂 [Automated Railway Interlocking & Collision Avoidance Engine](https://github.com/Sowmya-javvadhi/railway-interlocking-engine)
 Built a multithreaded Railway Interlocking Simulator managing concurrent train movements with zero deadlock using mutual exclusion locks and event queues.
 **Tech Stack:** `Python` `Multithreading` `Concurrency`
 
