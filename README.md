@@ -124,6 +124,11 @@ Built a multithreaded Railway Interlocking Simulator managing concurrent train m
 
 ---
 
+### 🏫 [Campus Helpdesk ServiceNow](https://github.com/Sowmya-javvadhi/Campus-Helpdesk-ServiceNow)
+Developed a campus helpdesk system using ServiceNow to streamline support tickets, automate routing, and manage user requests.
+**Tech Stack:** `ServiceNow` `JavaScript` `ITSM`
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
